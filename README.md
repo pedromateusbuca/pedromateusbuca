@@ -4,11 +4,9 @@ Olá! Sou o Pedro Buca
 
 
 
-
 <div>
 <a href="https://github.com/pedrobuca">
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=pedromateusbuca&show_icons=true&theme=radical" />
- <img height="180rem" src="https://github.com/pedromateusbuca/github-readme-stats" />
  </div><br>
   
   
